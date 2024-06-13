@@ -14,4 +14,6 @@
 
  5) testing the LSTM and adding training & application to package, compare performance to RNN 
 
+ 6) multi-feature and multi-time lag example with keras (based on the corresponding example from Jason Brownlee)
+
 
